@@ -53,7 +53,3 @@ This project uses [Tailwind CSS](https://tailwindcss.com/) for styling and and i
 ## 🔍 Data Fetching
 
 Data fetching is powered by [TanStack Query](https://tanstack.com/query) for efficient, declarative data fetching and caching.
-
-## 📬 Contact us
-
-For questions or feedback, contact us at [data@undp.org](mailto:data@undp.org).
