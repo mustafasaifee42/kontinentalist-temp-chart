@@ -1,8 +1,7 @@
-This is a React + TypeScript + Vite project powered by Tailwind CSS, and the UNDP Design System.
+This is a React + TypeScript + Vite project powered by Tailwind CSS.
 
 It includes:
 * React 19.x with React compiler
-* UNDP Design System
 * Data fetching with [TanStack Query](https://tanstack.com/query)
 * TailwindCSS
 * Code linting and formatting via Biome
